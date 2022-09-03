@@ -58,4 +58,4 @@ json = '{"value":"43","raining":"false","sensorName":"Atlas"}'
 
 print(requests.post(url=url, json=json).status_code)
 
-And if you want to get all measurements, just make a get request to the this <a href="http://localhost:8080/measurements">url<a/>,or to <a href="http://localhost:8080/measurements/rainyDaysCount">this url<a/> if you just want to get a rainy days count.
+And if you want to get all measurements, just make a get request to this <a href="http://localhost:8080/measurements">url<a/>,or to <a href="http://localhost:8080/measurements/rainyDaysCount">this url<a/> if you just want to get a rainy days count.
