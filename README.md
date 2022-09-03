@@ -1,7 +1,5 @@
 # SimpleREST
-A simple REST API implementation written using Spring Data JPA, Boot and REST.
-# Idea
-A pseudo weather REST API. You can send a weather measurements to it, or get all measurements.
+A simple REST API implementation written using Spring Data JPA, Boot and REST. It represents a pseudo weather REST API.
 # Prerequisites
 A new Maven/Gradle project with the next dependencies:
 1) <a href="https://mvnrepository.com/artifact/com.fasterxml.jackson.core/jackson-databind">Jackson core databind</a>
