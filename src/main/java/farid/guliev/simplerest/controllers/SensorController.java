@@ -1,12 +1,12 @@
 package farid.guliev.simplerest.controllers;
 
-import dev.jujumba.project3.dtos.SensorDTO;
-import dev.jujumba.project3.errorResponses.SensorErrorResponse;
-import dev.jujumba.project3.exceptions.SensorAlreadyRegisteredException;
-import dev.jujumba.project3.models.Sensor;
-import dev.jujumba.project3.services.SensorService;
-import dev.jujumba.project3.utils.DTOConverter;
-import dev.jujumba.project3.validation.SensorValidator;
+import farid.guliev.simplerest.dtos.SensorDTO;
+import farid.guliev.simplerest.errorResponses.SensorErrorResponse;
+import farid.guliev.simplerest.exceptions.SensorAlreadyRegisteredException;
+import farid.guliev.simplerest.models.Sensor;
+import farid.guliev.simplerest.services.SensorService;
+import farid.guliev.simplerest.utils.DTOConverter;
+import farid.guliev.simplerest.validation.SensorValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

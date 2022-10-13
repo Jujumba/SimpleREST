@@ -1,7 +1,7 @@
 package farid.guliev.simplerest.validation;
 
-import dev.jujumba.project3.models.Sensor;
-import dev.jujumba.project3.services.SensorService;
+import farid.guliev.simplerest.models.Sensor;
+import farid.guliev.simplerest.services.SensorService;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.Validator;

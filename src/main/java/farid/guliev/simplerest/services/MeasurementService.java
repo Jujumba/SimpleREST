@@ -1,7 +1,7 @@
 package farid.guliev.simplerest.services;
 
-import dev.jujumba.project3.models.Measurement;
-import dev.jujumba.project3.repos.MeasurementRepo;
+import farid.guliev.simplerest.models.Measurement;
+import farid.guliev.simplerest.repos.MeasurementRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

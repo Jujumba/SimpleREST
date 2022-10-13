@@ -1,7 +1,7 @@
 package farid.guliev.simplerest.services;
 
-import dev.jujumba.project3.models.Sensor;
-import dev.jujumba.project3.repos.SensorRepo;
+import farid.guliev.simplerest.models.Sensor;
+import farid.guliev.simplerest.repos.SensorRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,6 +1,6 @@
 package farid.guliev.simplerest.repos;
 
-import dev.jujumba.project3.models.Measurement;
+import farid.guliev.simplerest.models.Measurement;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

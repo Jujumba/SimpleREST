@@ -1,10 +1,10 @@
 package farid.guliev.simplerest.utils;
 
-import dev.jujumba.project3.dtos.MeasurementDTO;
-import dev.jujumba.project3.dtos.SensorDTO;
-import dev.jujumba.project3.models.Measurement;
-import dev.jujumba.project3.models.Sensor;
-import dev.jujumba.project3.services.SensorService;
+import farid.guliev.simplerest.dtos.MeasurementDTO;
+import farid.guliev.simplerest.dtos.SensorDTO;
+import farid.guliev.simplerest.models.Measurement;
+import farid.guliev.simplerest.models.Sensor;
+import farid.guliev.simplerest.services.SensorService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

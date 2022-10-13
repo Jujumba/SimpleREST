@@ -1,6 +1,6 @@
 package farid.guliev.simplerest.repos;
 
-import dev.jujumba.project3.models.Sensor;
+import farid.guliev.simplerest.models.Sensor;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
